@@ -1,0 +1,1 @@
+This is where all my practice for python coding is stored. You will see challenges with answers and notes to explain my understanding of the answer I coded. Final version of my challenges are publish , while they are polish I include personal notes of my actions to prove my understanding.
